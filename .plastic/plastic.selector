@@ -1,0 +1,4 @@
+repository "MiniDungen@gramman75@cloud"
+  path "/"
+    br "/main"
+    co "/main"
